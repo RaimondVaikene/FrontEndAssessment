@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontEndAssessment/static/css/main.4d9dd0f6.css",
+    "main.js": "/FrontEndAssessment/static/js/main.bebe0335.js",
+    "index.html": "/FrontEndAssessment/index.html",
+    "main.4d9dd0f6.css.map": "/FrontEndAssessment/static/css/main.4d9dd0f6.css.map",
+    "main.bebe0335.js.map": "/FrontEndAssessment/static/js/main.bebe0335.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d9dd0f6.css",
+    "static/js/main.bebe0335.js"
+  ]
+}
